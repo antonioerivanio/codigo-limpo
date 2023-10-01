@@ -1,4 +1,4 @@
-package br.com.tce.ce.gov.codigolLimpo.cap02Funcoes;
+package br.com.tce.ce.gov.codigolLimpo.cap02;
 
 public class PayRoll {
     public Money claculatePay(Employee e) throws InvalidEmployeeType {

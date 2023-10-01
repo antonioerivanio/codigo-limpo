@@ -1,4 +1,4 @@
-package br.com.tce.ce.gov.codigolLimpo.cap01.nomeSignificativo.adicioneContextoSignificativo;
+package br.com.tce.ce.gov.codigolLimpo.cap01.adicioneContextoSignificativo;
 
 public class VariavelContextoObscuro {
     private void printGuessStatistics(char candidate, int count){

@@ -1,4 +1,4 @@
-package br.com.tce.ce.gov.codigolLimpo.cap01.nomeSignificativo.reveleProposito;
+package br.com.tce.ce.gov.codigolLimpo.cap01.reveleProposito;
 
 public class NomeQueNaoReveleSeuProposito1 {
 

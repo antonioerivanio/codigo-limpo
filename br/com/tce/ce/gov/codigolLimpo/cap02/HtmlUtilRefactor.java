@@ -1,4 +1,4 @@
-package br.com.tce.ce.gov.codigolLimpo.cap02Funcoes;
+package br.com.tce.ce.gov.codigolLimpo.cap02;
 
 public class HtmlUtilRefactor {
     public static String renderPageWithSetupAndTeardown(PageData pageData, boolean isSuite) throws Exception{

@@ -1,6 +1,4 @@
-package br.com.tce.ce.gov.codigolLimpo.cap02Funcoes;
-
-import java.awt.print.Pageable;
+package br.com.tce.ce.gov.codigolLimpo.cap02;
 
 public class HtmlUtil {
     public static sgtring testableHtml(PageData pageData,
